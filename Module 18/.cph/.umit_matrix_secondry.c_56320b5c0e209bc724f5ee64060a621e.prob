@@ -1,1 +1,0 @@
-{"name":"Local: umit_matrix_secondry","url":"d:\\Phiton C Programming\\ALL MODULES IN C\\Module 18\\umit_matrix_secondry.c","tests":[{"id":1706111455500,"input":"3 3\n0 0 1\n0 1 0\n1 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phiton C Programming\\ALL MODULES IN C\\Module 18\\umit_matrix_secondry.c","group":"local","local":true}
