@@ -215,9 +215,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/yourusername/c-programming-modules?style=social)](https://github.com/yourusername/c-programming-modules/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/c-programming-modules?style=social)](https://github.com/yourusername/c-programming-modules/network/members)
-[![Issues](https://img.shields.io/github/issues/yourusername/c-programming-modules)](https://github.com/yourusername/c-programming-modules/issues)
-[![License](https://img.shields.io/github/license/yourusername/c-programming-modules)](https://github.com/yourusername/c-programming-modules/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/abdullahalsazib/c-programming-modules?style=social)](https://github.com/abdullahalsazib/c-programming-modules/stargazers)
+[![Forks](https://img.shields.io/github/forks/abdullahalsazib/c-programming-modules?style=social)](https://github.com/abdullahalsazib/c-programming-modules/network/members)
+[![Issues](https://img.shields.io/github/issues/abdullahalsazib/c-programming-modules)](https://github.com/abdullahalsazib/c-programming-modules/issues)
+[![License](https://img.shields.io/github/license/abdullahalsazib/c-programming-modules)](https://github.com/abdullahalsazib/c-programming-modules/blob/main/LICENSE)
 
 </div>
